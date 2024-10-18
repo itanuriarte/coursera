@@ -1,0 +1,43 @@
+*/Página de prueba/*
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página de Prueba</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenidos a Mi Página</h1>
+        <nav>
+            <ul>
+                <li><a href="https://es.wikipedia.org/wiki/Wikipedia:Portada" target="_blank">Link to Wikipedia.es</a></li>
+                <li><a href="#seccion1">Sección 1</a></li>
+                <li><a href="#seccion2">Sección 2</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="seccion1">
+            <h2>Galería de Imágenes</h2>
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Freinoanimalia.fandom.com%2Fes%2Fwiki%2FPugs&psig=AOvVaw1VLJrUEW9TwP4u6ArwZnUO&ust=1729357131367000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjYk76zmIkDFQAAAAAdAAAAABAE" alt="Pug1">
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fperro.shop%2Frazas%2Frazas-perros-pequenos%2Fcarlino-pug%2F&psig=AOvVaw1VLJrUEW9TwP4u6ArwZnUO&ust=1729357131367000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjYk76zmIkDFQAAAAAdAAAAABAI" alt="Pug2">
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthehappening.com%2Fpugs-raza-perro-maltrato-egoismo-humano%2F&psig=AOvVaw1VLJrUEW9TwP4u6ArwZnUO&ust=1729357131367000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjYk76zmIkDFQAAAAAdAAAAABAQ" alt="Pug3">
+        </section>
+
+        <section id="seccion2">
+            <h2>Lista de Tareas</h2>
+            <ul>
+                <li>Aprender HTML y CSS</li>
+                <li>Practicar JavaScript</li>
+                <li>Crear un sitio web</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 Mi Página de Prueba. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
